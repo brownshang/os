@@ -3,7 +3,7 @@ os
 
 宝哥哥写的操作系统引导程序
 
-使用nasm(http://www.nasm.us/)分别编译每个源代码文件，并将所有编译好的.o二进制文件组成一个image.img
+使用nasm（http://www.nasm.us/）分别编译每个源代码文件，并将所有编译好的.o二进制文件组成一个image.img
 
 历经多个版本，每个文件夹内都有编译好的image.img文件，用vmware当作软盘打开并启动可以观看结果
 
