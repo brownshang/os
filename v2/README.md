@@ -1,0 +1,5 @@
+本版进入保护模式，第一个扇区的read引导程序显示Loading kernel part
+setup设置模块显示Starting system..
+keyboard模块接收键盘输入并回显到屏幕
+
+编译好的image.img文件，用vmware当作软盘打开并启动可以观看结果

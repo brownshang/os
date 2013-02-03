@@ -1,0 +1,3 @@
+本版进入保护模式，并显示Starting system...
+
+编译好的image.img文件，用vmware当作软盘打开并启动可以观看结果
